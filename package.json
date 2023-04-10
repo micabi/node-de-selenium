@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "selenium-webdriver": "^3.6.0",
+    "selenium-webdriver": "^4.8.2",
     "jasmine": "^3.5.0"
   }
 }
